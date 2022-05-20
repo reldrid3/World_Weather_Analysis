@@ -3,6 +3,8 @@ config.py
 #Adding Additional Files
 APIPractice.ipynb
 random_numbers.ipynb
+VacationPy.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
